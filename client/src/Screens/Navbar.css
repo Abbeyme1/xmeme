@@ -1,0 +1,18 @@
+#nav {
+  margin-bottom: 2vh;
+  background-color: #0b032d !important;
+
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+#brand {
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  display: flex;
+  color: white !important;
+}
+#brand:hover {
+  transform: scale(1.05);
+}

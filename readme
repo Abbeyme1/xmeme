@@ -1,0 +1,8 @@
+To run both client and server together 
+> npm run dev
+
+To run just server
+> npm run server
+
+To run just client
+> npm run client
